@@ -10,7 +10,7 @@ A responsive service card layout showcasing plumbing services with hover animati
 - Animate.css
 
 ## Installation
-1. Clone the repo: `git clone <repository-url>`
+1. Clone the repo: `git clone https://github.com/SanjanaGharat/Pinak-Idea-Lab-Private-Limited-Assignment`
 2. Open `index.html` in your browser.
 
 ## Features
@@ -18,7 +18,7 @@ A responsive service card layout showcasing plumbing services with hover animati
 - Slow rotation on hover.
 
 ## Live Demo
-View a live demo [here](https://example.com).
+View a live demo [here](https://sanjanagharat.github.io/Pinak-Idea-Lab-Private-Limited-Assignment/).
 
 ## License
 MIT License
