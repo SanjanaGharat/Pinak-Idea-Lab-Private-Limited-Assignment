@@ -20,8 +20,5 @@ A responsive service card layout showcasing plumbing services with hover animati
 ## Live Demo
 View a live demo [here](https://sanjanagharat.github.io/Pinak-Idea-Lab-Private-Limited-Assignment/).
 
-## License
-MIT License
-
 ## Author
-Your Name
+Sanjana Sajan Gharat
